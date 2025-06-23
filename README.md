@@ -1,4 +1,4 @@
-# ML project one
+## ML project one
 
 ### Imported Titanic dataset using NumPy, Pandas, Matplotlib, and Seaborn.
 
